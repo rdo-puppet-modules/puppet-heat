@@ -1,0 +1,7 @@
+Code-Review+2: RDO CI Service Account <openstack-ci-service@redhat.com>
+Verified+1: RDO CI Service Account <openstack-ci-service@redhat.com>
+Submitted-by: RDO CI Service Account <openstack-ci-service@redhat.com>
+Submitted-at: Thu, 06 Aug 2015 14:54:05 +0200
+Reviewed-on: https://review.gerrithub.io/242395
+Project: rdo-puppet-modules/puppet-heat
+Branch: refs/heads/recomb-original-master-c06b8cbc34c08ebe552d16f73c5d7ff71ed6027f
